@@ -1,1 +1,1 @@
-https://tekigeetanjali.github.io/calculator/
+https://tekigeetanjali.github.io/Meal-Finder-Project/
